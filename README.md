@@ -49,3 +49,8 @@ Contributions to this project are welcome. Please fork the repository and submit
 ## License
 
 This project is open-sourced under the [MIT License](https://opensource.org/license/mit/).
+
+# Acknowledgements
+
+The project was undertaken as a component of the [Think Autonomous Course LEARN IMAGE SEGMENTATION](https://courses.thinkautonomous.ai/image-segmentation).
+The PRoject was .
