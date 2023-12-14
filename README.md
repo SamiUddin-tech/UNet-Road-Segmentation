@@ -19,7 +19,7 @@ This project focuses on road segmentation using a U-Net architecture, a popular 
 
 To set up the environment for this project, you will need to install the required libraries. You can install these using pip:
 
-pip install numpy opencv-python torch matplotlib
+```pip install numpy opencv-python torch matplotlib```
 
 ## Dataset
 
