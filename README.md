@@ -1,5 +1,7 @@
 # UNet-Road-Segmentation
 
+![UNet_demo](https://github.com/SamiUddin-tech/UNet-Road-Segmentation/assets/81253183/bad230a9-223e-4cc5-be87-ca1da9657acf)
+
 ## Overview
 
 This project focuses on road segmentation using a U-Net architecture, a popular model in the field of image segmentation. Road segmentation is a crucial component in autonomous driving systems, where accurate detection of drivable paths and road boundaries is essential for safe navigation.
